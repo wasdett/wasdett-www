@@ -1,4 +1,4 @@
-Welcome the repository behind the http://www.ieee-scam.org website.
+Welcome the repository behind the http://www.wasdett.org website.
 
 If you want to test your changes locally, run:
 
