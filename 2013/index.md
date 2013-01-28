@@ -21,7 +21,7 @@ The purpose of WASDeTT is to gather researchers working on different tools, prov
 they can talk about common issues relevant to all tool builders, and builders of
   academic research prototypes in particular. Like previous WASDeTT instances, this one also prepares for an Experimental Software and Toolkits (EST) special issue of Elsevier's Science in Computer Programming journal, where tool construction results are disseminated.
 
-# Keywords
+# Topics and keywords
 
 The nature of WASDeTT is cross-cutting different topics and domains, approaching all these topics from the tool development perspective. The following list of keywords is an indication of the kinds of topics we expect, but should not be taken as a restriction. Note that this topic list intentionally overlaps with the topics from the ECOOP 2013 call for papers.
 
@@ -45,8 +45,6 @@ The nature of WASDeTT is cross-cutting different topics and domains, approaching
  - mining software repositories
  - plugin architectures
  - etc.
-
-# Topics
 
 WASDeTT intentionally crosscuts different topics and domains: tools are relevant everywhere. We also solicit meta discussions on tool development and validation.
 
