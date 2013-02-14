@@ -50,9 +50,9 @@ Notification deadline | TBA - well before early ECOOP registration in May 2013
 ## Organizers
 
 * Mark van den Brand, TU/Eindhoven, The Netherlands
-* Kim Mens, Universit{\'e} catholique de Louvain (UCL), Belgium
-* Pierre-Etienne Moreau, LORIA -- Universit\'e de Lorraine\\-- Ecole des Mines de Nancy, France
-* [Jurgen J. Vinju](mailto:Jurgen.Vinju@cwi.nl), Centrum Wiskunde \& Informatica, The Netherlands and INRIA Lille Nord Europe, France (_primary contact_)
+* Kim Mens, Université catholique de Louvain (UCL), Belgium
+* Pierre-Etienne Moreau, LORIA - Université de Lorraine - Ecole des Mines de Nancy, France
+* [Jurgen J. Vinju](mailto:Jurgen.Vinju@cwi.nl), Centrum Wiskunde & Informatica, The Netherlands - INRIA Lille Nord Europe, France (_primary contact_)
 
 ## Invited talk
 
