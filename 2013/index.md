@@ -51,4 +51,4 @@ WASDeTT intentionally crosscuts different topics and domains: tools are relevant
 # Further information
 
 - [Call for papers](cfp.html)
-- Contact: see [committees](Committee.html)
+- Contact: see [committees](committee.html)
