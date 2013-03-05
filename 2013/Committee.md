@@ -10,6 +10,22 @@ This list is under construction:
 - Jurgen Vinju
 - Damien Cassou
 - Richard Paige
+- Andy Kellens  
+- Coen de Roover  
+- Diomidis Spinellis  
+- Haussi Muller
+- Jan Vitek  
+- Mircea Lungu  
+- Paul Klint  
+- Davide Di Ruscio
+- Emilie Balland  
+- Francisco Durán  
+- Görel Hedin  
+- Jurgen Vinju 
+- Oscar Nierstrasz  
+- Richard Paige
+- Tijs van der Storm  
+- William Cook
 
 ## Organization
 
