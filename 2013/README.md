@@ -61,7 +61,7 @@ and then push.
 
 For more info about git see: [Introduction to Git](http://learn.github.com/p/intro.html). 
 
-# SCAM site architecture (for future developers)
+# site architecture (for future developers)
 
 - Ruby build script.
 - Build static HTML files, no fancy javascript client-side loading
