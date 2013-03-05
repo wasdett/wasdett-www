@@ -28,7 +28,7 @@ they can talk about common issues relevant to all tool builders, and builders of
 * We invite you to submit either or both of these two different kinds of papers:
    1. __Tool design papers__ - 10 pages, excluding screen shots. These present an (academic) tool and discuss how
   the tool was built. Next to a clear positioning to _related research_, and _related tools_, the paper should address issues such as the _requirements_, the _rationale_ for the important design decisions, and _lessons learned_ from the experience of implementing the chosen design. 
-   1y. __Position papers__ - 5 pages, all inclusive. These state a position or vision on issues
+   1. __Position papers__ - 5 pages, all inclusive. These state a position or vision on issues
   related to tool building. Importantly, such a paper should serve as
   a foundation for interesting discussions at the workshop. The papers are judged by normal academic standards in terms of motivation, clarity and related work.
 
