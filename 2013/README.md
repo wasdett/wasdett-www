@@ -10,7 +10,7 @@ If this fails, try running it with `sudo`. If it fails during compilation of the
 
 Hereafter, just clone the github project into a directory.
 
-	$ git clone git@github.com:ieee-scam/ieee-scam-www.git
+	$ git clone git@github.com:wasdett/wasdett-www.git
 	
 And make sure you are on the gh-pages branch:
 
