@@ -60,6 +60,6 @@ Notification deadline | May 17, 2013 (early ECOOP registration deadline is May 3
 
 ## PC members
 
-* TBA
+Can be found [here](committee.html)
 
 
