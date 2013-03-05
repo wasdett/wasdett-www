@@ -33,7 +33,7 @@ they can talk about common issues relevant to all tool builders, and builders of
   a foundation for interesting discussions at the workshop. The papers are judged by normal academic standards in terms of motivation, clarity and related work.
 
 * _Requirements_: 
-   * Submissions should be formatted according to Elsevier's SCP style. 
+   * Submissions should be formatted according to Elsevier's SCP style. See <http://www.elsevier.com/author-schemas/preparing-documents-with-latex>.  
    * the authors of the accepted papers are required to participate in the workshop by presenting their paper and taking part in the discussions. Notes of the discussions may be published online after the workshop.
  
 * _Publication_: all accepted papers will be included in the hand-out proceedings at the workshop. The _tool design papers_, or an improved version thereof, are further eligable for submission an [EST special issue](http://www.win.tue.nl/~mvdbrand/SCP-EST/) in [Science of Computer Programming](http://www.journals.elsevier.com/science-of-computer-programming/)
