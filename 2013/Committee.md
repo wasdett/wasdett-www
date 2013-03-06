@@ -22,7 +22,6 @@ This list is under construction:
 - Francisco Durán  
 - Görel Hedin  
 - Oscar Nierstrasz  
-- Richard Paige
 - Tijs van der Storm  
 - William Cook
 - Grigore Rosu
