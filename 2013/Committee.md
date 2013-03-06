@@ -21,7 +21,6 @@ This list is under construction:
 - Emilie Balland  
 - Francisco Durán  
 - Görel Hedin  
-- Jurgen Vinju 
 - Oscar Nierstrasz  
 - Richard Paige
 - Tijs van der Storm  
