@@ -26,6 +26,7 @@ This list is under construction:
 - Richard Paige
 - Tijs van der Storm  
 - William Cook
+- Grigore Rosu
 
 ## Organization
 
