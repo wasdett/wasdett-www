@@ -25,6 +25,11 @@ This list is under construction:
 - Tijs van der Storm  
 - William Cook
 - Grigore Rosu
+- Alexandre Bergel
+- Robert Hirschfeld
+- Roel Wuyts
+- Serge Demeyer
+- Anthony Sloane
 
 ## Organization
 
