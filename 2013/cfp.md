@@ -46,7 +46,7 @@ Event                  | Tentative Date
 ---------------------- | ---------------------------
 Submission deadline   | April 19, 2013 (anywhere on earth).
 Notification deadline | May 17, 2013 (early ECOOP registration deadline is May 31th) 
-Workshop               | July 1st or 2nd, 2013
+Workshop               | July 1st, 2013
 
 ## Organizers
 

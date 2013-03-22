@@ -1,7 +1,7 @@
 # WASDeTT-4
 ===========
 
-WASDeTT-4 is one of the workshops at [ECOOP/ECSA/ECMFA](http://www.lirmm.fr/ec-montpellier-2013/), organized in July 2013, in Montpellier, France.
+WASDeTT-4 is one of the workshops at [ECOOP/ECSA/ECMFA](http://www.lirmm.fr/ec-montpellier-2013/), organized on July 1st, 2013, in Montpellier, France.
 
 # Description
 
