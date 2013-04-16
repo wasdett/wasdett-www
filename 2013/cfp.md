@@ -44,7 +44,7 @@ Please submit your papers via Easychair at <https://www.easychair.org/conference
 
 Event                  | Tentative Date
 ---------------------- | ---------------------------
-Submission deadline   | April 26, 2013 (anywhere on earth) [was April 19th, extended now to April 26th]
+Submission deadline   | April 26, 2013 (anywhere on earth) 
 Notification deadline | May 17, 2013 (early ECOOP registration deadline is May 31th) 
 Workshop               | July 1st, 2013
 
