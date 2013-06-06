@@ -1,5 +1,6 @@
 # Tentative Workshop Schedule
 
+| &nbsp; | &nbsp; |
 |:---------- |:-----------|
 | Session 1 | 9:00-10:30 Opening and invited talk |
 | 9:00  | Welcome and Introduction by the organizers |
