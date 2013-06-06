@@ -2,7 +2,7 @@
 
 | &nbsp; | &nbsp; |
 |:---------- |:-----------|
-| Session 1 | 9:00-10:30 Opening and invited talk |
+| __Session 1__ | __9:00-10:30__ Opening and invited talk |
 | 9:00  | Welcome and Introduction by the organizers |
 | 9:15  | Invited talk by Pieter Van Gorp on SHARE 
 | 10:00 | Open discussion on the use of SHARE as a medium for sharing/publishing tools, and for EST in particular |
