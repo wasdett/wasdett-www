@@ -16,9 +16,8 @@
 | __Session 3__ | __14:00-15:30__ Presentations without demo and discussion |
 | 14:00 |  Tim Felgentreff, Michael Perscheid and Robert Hirschfeld. Constraining Timing-dependent Communication for Debugging Non-deterministic Failures |
 | 14:15 | Sergio Castro, Kim Mens and Paulo Moura. JPC: A Library for Modularising Inter-Language Conversion Concerns between Java and Prolog |
-| 14:30 | Alexandre Bergel and Vanessa Pena. Agile Software Visualization with Roassal |
-| 14:45 | Anya Helene Bagge. Facts, Resources, and the IDE/Compiler Mind-Meld |
-| 15:00 | Discussion on tool-building issues: how to evaluate academic research tools |
+| 14:30 | Anya Helene Bagge. Facts, Resources, and the IDE/Compiler Mind-Meld |
+| 14:45 | Discussion on tool-building issues: how to evaluate academic research tools |
 | __Coffee Break__ |  __15:30-16:00__ |
 | __Session 4__ | __16:00-17:30__ Presentations without demo and discussion |
 | 16:00 | Harald Störrle. UML Model Analysis and Checking with MACH |
